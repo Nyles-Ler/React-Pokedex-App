@@ -37,7 +37,7 @@ Interactive search panel allowing users to search Pokémon by:
 - Pokédex Number
 - Sorting Options
 
-![Search Interface](screenshots/search-interface.png)
+![Search Interface](screenshots/interface.png)
 
 ---
 
@@ -49,7 +49,7 @@ Dynamic Pokémon card layout displaying:
 - Pokémon types
 - Responsive card styling
 
-![Pokemon Grid](screenshots/pokemon-grid.png)
+![Pokemon Grid](screenshots/grid.png)
 
 ---
 
